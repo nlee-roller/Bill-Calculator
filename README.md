@@ -1,1 +1,1 @@
-Run it form the Content View file if you need help splitting your bill!
+Run it from the Content View file if you need help splitting your bill!
